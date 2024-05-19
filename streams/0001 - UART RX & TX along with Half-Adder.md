@@ -17,6 +17,7 @@ The final title was **Arty Z7-20 - Designing a CPU - UART TX & RX**
 
 ## Notes
 
+* Streamed on May 17th, 2024 at 8 PM EDT for 3 hours, 40 minutes and 05 seconds.
 * Remove my hand from my mouth when talking.
 * I've been RAIDED!!! Need a Twitch cheatsheet to be able to raid other streamers.
   * RAID, when someone follow, subscribe, etc.

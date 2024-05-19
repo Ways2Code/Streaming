@@ -5,8 +5,19 @@ The final title was **Playing with an FPGA (Arty Z7-20)**
 ## Plan
 
 1. Introduce myself
-2. Introduce the concept behind FPGAs
+2. Introduce the concept behind FPGAs and other compute units
+   1. CPU
+   2. GPU
+   3. Photonic
+   4. Quantum
+   5. Neuromorphic
 3. Vivado process
+   1. Block design
+   2. HDL Wrapper
+   3. Sythesize
+   4. Implement
+   5. Bitstream
+   6. Hardware
 4. Making an application using Vitis in `C`
 
 ## Notes
