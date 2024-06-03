@@ -1,6 +1,6 @@
 # Naive 8-bit Multiplier
 
-No title yet.
+The final tital was **Arty Z7-20 - Designing a CPU - Making a naive 8x8 multiplier - Part 2**
 
 ## Plan
 
